@@ -1,0 +1,12 @@
+generalInformation:
+  serviceAdminEmail: jarro06@gmail.com
+  gheUsername: "222"
+  billingAccount: billaccount
+  billingTeamName: billteamnam
+  gheToken: ""
+  adpAccessToken: ""
+gheOrganisation:
+  organisationName: fdfdsfdsf
+cloudService:
+  awsOrAzure: eks
+  deploymentLocation: aws_ew3
